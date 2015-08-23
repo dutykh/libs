@@ -17,3 +17,14 @@ Moreover, if you have any *questions* or *suggestions*, please do not hesitate t
 * E-mail: " Denys . Dutykh at univ-savoie . fr "
 
 ---
+
+### Changelog ###
+
+V0.0.1: 2015/09/01
+
+* A couple of general books on numerical methods are added
+* A couple of books on spectral methods are added
+* A paper by J. Boyd on asymptotic series is added
+* A book of Lee Smolin is added
+* A text by S.P. Novikov is added
+* A few books by R. Feynman are added
