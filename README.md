@@ -5,7 +5,7 @@
 In this document I decided to assemble various sources of information (books, papers) and also some scientific software libraries which turned out to be extremely useful in the scientific work of the author of these notes. Namely, my vision of some fields of (Applied) Mathematics and Fluid Mechanics has been strongly influenced by these manuscripts. In the past I read far more books and scientific papers. However, only those listed below had the most influential effect on me. As a conclusion, I can strongly recommend to consult these references and absorb the precious fundamental knowledge from them. 
 
 The reader will notice that most of my favourite references are rather old. It can be mainly explained by the personal taste of the author of these notes and an additional purely subjective observation: it seems that in older times the quality and information content of the books were much higher...
-
+-
 Moreover, if you have any *questions* or *suggestions*, please do not hesitate to contact the Author (preferably by e-mail).
 
 ---
@@ -19,6 +19,10 @@ Moreover, if you have any *questions* or *suggestions*, please do not hesitate t
 ---
 
 ### Changelog ###
+
+V.0.0.2: 2015/12/08
+
+* A reference on General Topology is added
 
 V0.0.1: 2015/09/01
 
