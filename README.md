@@ -20,6 +20,11 @@ Moreover, if you have any *questions* or *suggestions*, please do not hesitate t
 
 ### Changelog ###
 
+V.0.0.3: 2016/01/19
+
+* The first book of B. Fornberg is added
+* Some links to efficient Matlab programming are added
+
 V.0.0.2: 2015/12/08
 
 * A reference on General Topology is added
